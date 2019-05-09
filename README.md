@@ -1,6 +1,6 @@
-# UPX ANDROID MINER
+# ANDROID MINER
 
-The first optimized android miner running on a blockchain created for IoT mining (uPlexa).
+Optimized android miner, based on uPlexa's IoT mining app. 
 
 # Usage
 
